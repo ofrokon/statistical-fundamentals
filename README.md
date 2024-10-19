@@ -71,6 +71,6 @@ This project is open source and available under the [MIT License](LICENSE).
 
 ---
 
-For a detailed explanation of these statistical concepts and their application in data science, check out the accompanying Medium post: [Statistical Fundamentals for Data Scientists](https://medium.com/yourusername/statistical-fundamentals-for-data-scientists)
+For a detailed explanation of these statistical concepts and their application in data science, check out the accompanying Medium post: [Statistical Fundamentals for Data Scientists](https://medium.com/@mroko001/statistical-fundamentals-for-data-scientists-1e78632e815f)
 
 For questions or feedback, please open an issue in this repository.
